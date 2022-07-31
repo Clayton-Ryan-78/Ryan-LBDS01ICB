@@ -3,8 +3,8 @@
 # Data Science & Analytics Portfolio
 This repository contains projects and visualizations created from the Data Science & Analytics program with Cal State Univ Long Beach.
 
-## SQL
+## SQL and Pythion
 
 ## Statistics
 
-## Visual Communications
+## Visual Communications (Tableu)
